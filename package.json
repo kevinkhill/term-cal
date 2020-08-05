@@ -1,8 +1,8 @@
 {
-  "name": "@khill/term-cal",
-  "description": "Calendar for your terminal.",
+  "name": "term-cal",
+  "description": "A calendar for your terminal.",
   "version": "1.0.0",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": true,
   "main": "dist/main.cjs.js",
   "types": "dist/main.d.ts",
@@ -24,6 +24,7 @@
   },
   "devDependencies": {
     "@ts-engine/cli": "^1.10.0",
+    "np": "^6.3.2",
     "ts-node-dev": "^1.0.0-pre.56",
     "ultra-runner": "^3.5.0"
   },
