@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noUnusedLocals": false,
+    "target": "es2018",
+    "module": "commonjs",
+    "baseUrl": "./src",
+    "outDir": "./dist",
+    "sourceMap": true,
+    "esModuleInterop": true,
+  },
+  "include": [
+    "src"
+  ]
+}
